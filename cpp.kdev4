@@ -1,4 +1,4 @@
 [Project]
 Name=cpp
-Manager=KDevCMakeManager
-VersionControl=kdevgit
+Manager=KDevCustomMakeManager
+VersionControl=
